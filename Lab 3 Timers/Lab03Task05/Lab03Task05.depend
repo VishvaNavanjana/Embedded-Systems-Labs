@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627408065 source:h:\university\semester 5\co321 embedded systems\labs\lab 3\lab03task05\fuse.c
+	<avr/io.h>
+
+1627446348 source:h:\university\semester 5\co321 embedded systems\labs\lab 3\lab03task05\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+

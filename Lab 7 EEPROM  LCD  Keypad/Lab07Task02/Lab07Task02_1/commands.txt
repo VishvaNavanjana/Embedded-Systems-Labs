@@ -1,0 +1,5 @@
+ avr-gcc -Os -DF_CPU=16000000UL -mmcu=atmega328p -o lab07_task2_1  lab07_task2_1.c
+
+ avr-objcopy -O ihex -R .eeprom lab07_task2_1 lab07_task2_1.hex
+
+ avrdude -F -V -c arduino -p ATMEGA328P -P com6 -b 115200 -U flash:w:lab07_task2_1.hex

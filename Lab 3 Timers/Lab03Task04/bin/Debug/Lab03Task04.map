@@ -1,0 +1,546 @@
+Archive member included because of file (symbol)
+
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              obj\Debug\main.o (__ltsf2)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              obj\Debug\main.o (__fixunssfsi)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              obj\Debug\main.o (__gtsf2)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              obj\Debug\main.o (__mulsf3)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (exit)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 obj\Debug\fuse.o
+ .data          0x00000000        0x0 obj\Debug\fuse.o
+ .bss           0x00000000        0x0 obj\Debug\fuse.o
+ .debug_abbrev  0x00000000        0x0 obj\Debug\fuse.o
+ .debug_info    0x00000000        0x0 obj\Debug\fuse.o
+ .debug_line    0x00000000        0x0 obj\Debug\fuse.o
+ .debug_pubnames
+                0x00000000        0x0 obj\Debug\fuse.o
+ .debug_str     0x00000000        0x0 obj\Debug\fuse.o
+ .text          0x00000000        0x0 obj\Debug\main.o
+ .data          0x00000000        0x0 obj\Debug\main.o
+ .bss           0x00000000        0x0 obj\Debug\main.o
+ .debug_abbrev  0x00000000        0x0 obj\Debug\main.o
+ .debug_info    0x00000000        0x0 obj\Debug\main.o
+ .debug_line    0x00000000        0x0 obj\Debug\main.o
+ .debug_frame   0x00000000        0x0 obj\Debug\main.o
+ .debug_pubnames
+                0x00000000        0x0 obj\Debug\main.o
+ .debug_aranges
+                0x00000000        0x0 obj\Debug\main.o
+ .debug_ranges  0x00000000        0x0 obj\Debug\main.o
+ .debug_str     0x00000000        0x0 obj\Debug\main.o
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+LOAD obj\Debug\fuse.o
+LOAD obj\Debug\main.o
+LOAD f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x5d2
+ *(.vectors)
+ .vectors       0x00000000       0x68 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000068                __ctors_start = .
+ *(.ctors)
+                0x00000068                __ctors_end = .
+                0x00000068                __dtors_start = .
+ *(.dtors)
+                0x00000068                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000068        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000068                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000068        0xc f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000074        0x8 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000007c        0x4 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x0000007c                __vector_22
+                0x0000007c                __vector_1
+                0x0000007c                __vector_24
+                0x0000007c                __vector_12
+                0x0000007c                __bad_interrupt
+                0x0000007c                __vector_6
+                0x0000007c                __vector_3
+                0x0000007c                __vector_23
+                0x0000007c                __vector_25
+                0x0000007c                __vector_11
+                0x0000007c                __vector_17
+                0x0000007c                __vector_19
+                0x0000007c                __vector_7
+                0x0000007c                __vector_5
+                0x0000007c                __vector_4
+                0x0000007c                __vector_9
+                0x0000007c                __vector_2
+                0x0000007c                __vector_21
+                0x0000007c                __vector_15
+                0x0000007c                __vector_8
+                0x0000007c                __vector_14
+                0x0000007c                __vector_10
+                0x0000007c                __vector_16
+                0x0000007c                __vector_18
+                0x0000007c                __vector_20
+                0x00000080                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_13
+                0x00000080       0x54 obj\Debug\main.o
+                0x00000080                __vector_13
+ .text.main     0x000000d4      0x2e2 obj\Debug\main.o
+                0x000000d4                main
+ .text.fplib    0x000003b6        0x8 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x000003b6                __lesf2
+                0x000003b6                __nesf2
+                0x000003b6                __eqsf2
+                0x000003b6                __cmpsf2
+                0x000003b6                __ltsf2
+ .text.fplib    0x000003be       0x58 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000003be                __fixunssfsi
+ .text.fplib    0x00000416       0x48 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000416                __fp_cmp
+ .text.fplib    0x0000045e       0x44 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000045e                __fp_split3
+                0x0000046e                __fp_splitA
+ .text.fplib    0x000004a2        0xe f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000004a2                __fp_zero
+                0x000004a4                __fp_szero
+ .text.fplib    0x000004b0        0x8 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x000004b0                __gtsf2
+                0x000004b0                __gesf2
+ .text.fplib    0x000004b8        0x4 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000004b8                __mulsf3
+ .text.fplib    0x000004bc       0xc2 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000004d4                __mulsf3_pse
+                0x000004d0                __mulsf3x
+ .text.fplib    0x0000057e        0xc f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000057e                __fp_inf
+ .text.fplib    0x0000058a        0x6 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x0000058a                __fp_nan
+ .text.fplib    0x00000590        0xe f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00000590                __fp_pscA
+ .text.fplib    0x0000059e        0xe f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000059e                __fp_pscB
+ .text.fplib    0x000005ac       0x22 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x000005ac                __fp_round
+                0x000005ce                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000005ce        0x0 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000005ce                exit
+                0x000005ce                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000005ce        0x4 f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000005d2                _etext = .
+
+.data           0x00800100        0x0 load address 0x000005d2
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800100                . = ALIGN (0x2)
+                0x00800100                _edata = .
+                0x00800100                PROVIDE (__data_end, .)
+
+.bss            0x00800100        0x0
+                0x00800100                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+                0x00800100                PROVIDE (__bss_end, .)
+                0x000005d2                __data_load_start = LOADADDR (.data)
+                0x000005d2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800100        0x0
+                0x00800100                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800100                PROVIDE (__noinit_end, .)
+                0x00800100                _end = .
+                0x00800100                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse           0x00820000        0x3
+ *(.fuse)
+ .fuse          0x00820000        0x3 obj\Debug\fuse.o
+                0x00820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(bin\Debug\Lab03Task04.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges
+
+Cross Reference Table
+
+Symbol                                            File
+__bad_interrupt                                   f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__cmpsf2                                          f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__eqsf2                                           f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fixunssfsi                                      f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  obj\Debug\main.o
+__fp_cmp                                          f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fp_inf                                          f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_nan                                          f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_pscA                                         f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_pscB                                         f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_round                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__fp_split3                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_splitA                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fp_szero                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_zero                                         f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fuse                                            obj\Debug\fuse.o
+__gesf2                                           f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+__gtsf2                                           f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  obj\Debug\main.o
+__heap_end                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__init                                            f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__ltsf2                                           f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                                                  obj\Debug\main.o
+__mulsf3                                          f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  obj\Debug\main.o
+__mulsf3_pse                                      f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__mulsf3x                                         f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__nesf2                                           f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__stack                                           f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_1                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       obj\Debug\main.o
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+_exit                                             f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+exit                                              f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+main                                              obj\Debug\main.o
+                                                  f:/downloads/programs/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o

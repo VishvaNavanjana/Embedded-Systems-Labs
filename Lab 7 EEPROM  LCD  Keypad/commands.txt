@@ -1,0 +1,5 @@
+ avr-gcc -Os -DF_CPU=16000000UL -mmcu=atmega328p -o test_lcd  test_lcd.c
+
+ avr-objcopy -O ihex -R .eeprom test_lcd test_lcd.hex
+
+ avrdude -F -V -c arduino -p ATMEGA328P -P com6 -b 115200 -U flash:w:test_lcd.hex

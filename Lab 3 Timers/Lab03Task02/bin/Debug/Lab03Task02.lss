@@ -1,0 +1,124 @@
+
+bin\Debug\Lab03Task02.elf:     file format elf32-avr
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         0000011a  00000000  00000000  00000074  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .fuse         00000003  00820000  00820000  0000018e  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	0c 94 34 00 	jmp	0x68	;  0x68
+   4:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+   8:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+   c:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  10:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  14:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  18:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  1c:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  20:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  24:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  28:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  2c:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  30:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  34:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  38:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  3c:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  40:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  44:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  48:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  4c:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  50:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  54:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  58:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  5c:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  60:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  64:	0c 94 3e 00 	jmp	0x7c	;  0x7c
+  68:	11 24       	eor	r1, r1
+  6a:	1f be       	out	0x3f, r1	; 63
+  6c:	cf ef       	ldi	r28, 0xFF	; 255
+  6e:	d8 e0       	ldi	r29, 0x08	; 8
+  70:	de bf       	out	0x3e, r29	; 62
+  72:	cd bf       	out	0x3d, r28	; 61
+  74:	0e 94 75 00 	call	0xea	;  0xea
+  78:	0c 94 8b 00 	jmp	0x116	;  0x116
+  7c:	0c 94 00 00 	jmp	0	;  0x0
+  80:	df 93       	push	r29
+  82:	cf 93       	push	r28
+  84:	00 d0       	rcall	.+0      	;  0x86
+  86:	cd b7       	in	r28, 0x3d	; 61
+  88:	de b7       	in	r29, 0x3e	; 62
+  8a:	1a 82       	std	Y+2, r1	; 0x02
+  8c:	19 82       	std	Y+1, r1	; 0x01
+  8e:	23 c0       	rjmp	.+70     	;  0xd6
+  90:	e6 e4       	ldi	r30, 0x46	; 70
+  92:	f0 e0       	ldi	r31, 0x00	; 0
+  94:	83 e8       	ldi	r24, 0x83	; 131
+  96:	80 83       	st	Z, r24
+  98:	e4 e4       	ldi	r30, 0x44	; 68
+  9a:	f0 e0       	ldi	r31, 0x00	; 0
+  9c:	10 82       	st	Z, r1
+  9e:	e5 e4       	ldi	r30, 0x45	; 69
+  a0:	f0 e0       	ldi	r31, 0x00	; 0
+  a2:	84 e0       	ldi	r24, 0x04	; 4
+  a4:	80 83       	st	Z, r24
+  a6:	e5 e3       	ldi	r30, 0x35	; 53
+  a8:	f0 e0       	ldi	r31, 0x00	; 0
+  aa:	80 81       	ld	r24, Z
+  ac:	88 2f       	mov	r24, r24
+  ae:	90 e0       	ldi	r25, 0x00	; 0
+  b0:	81 70       	andi	r24, 0x01	; 1
+  b2:	90 70       	andi	r25, 0x00	; 0
+  b4:	00 97       	sbiw	r24, 0x00	; 0
+  b6:	b9 f3       	breq	.-18     	;  0xa6
+  b8:	e4 e4       	ldi	r30, 0x44	; 68
+  ba:	f0 e0       	ldi	r31, 0x00	; 0
+  bc:	10 82       	st	Z, r1
+  be:	e5 e4       	ldi	r30, 0x45	; 69
+  c0:	f0 e0       	ldi	r31, 0x00	; 0
+  c2:	10 82       	st	Z, r1
+  c4:	e5 e3       	ldi	r30, 0x35	; 53
+  c6:	f0 e0       	ldi	r31, 0x00	; 0
+  c8:	81 e0       	ldi	r24, 0x01	; 1
+  ca:	80 83       	st	Z, r24
+  cc:	89 81       	ldd	r24, Y+1	; 0x01
+  ce:	9a 81       	ldd	r25, Y+2	; 0x02
+  d0:	01 96       	adiw	r24, 0x01	; 1
+  d2:	9a 83       	std	Y+2, r25	; 0x02
+  d4:	89 83       	std	Y+1, r24	; 0x01
+  d6:	89 81       	ldd	r24, Y+1	; 0x01
+  d8:	9a 81       	ldd	r25, Y+2	; 0x02
+  da:	8a 37       	cpi	r24, 0x7A	; 122
+  dc:	91 05       	cpc	r25, r1
+  de:	c0 f2       	brcs	.-80     	;  0x90
+  e0:	0f 90       	pop	r0
+  e2:	0f 90       	pop	r0
+  e4:	cf 91       	pop	r28
+  e6:	df 91       	pop	r29
+  e8:	08 95       	ret
+  ea:	df 93       	push	r29
+  ec:	cf 93       	push	r28
+  ee:	cd b7       	in	r28, 0x3d	; 61
+  f0:	de b7       	in	r29, 0x3e	; 62
+  f2:	a4 e2       	ldi	r26, 0x24	; 36
+  f4:	b0 e0       	ldi	r27, 0x00	; 0
+  f6:	e4 e2       	ldi	r30, 0x24	; 36
+  f8:	f0 e0       	ldi	r31, 0x00	; 0
+  fa:	80 81       	ld	r24, Z
+  fc:	80 62       	ori	r24, 0x20	; 32
+  fe:	8c 93       	st	X, r24
+ 100:	a5 e2       	ldi	r26, 0x25	; 37
+ 102:	b0 e0       	ldi	r27, 0x00	; 0
+ 104:	e5 e2       	ldi	r30, 0x25	; 37
+ 106:	f0 e0       	ldi	r31, 0x00	; 0
+ 108:	90 81       	ld	r25, Z
+ 10a:	80 e2       	ldi	r24, 0x20	; 32
+ 10c:	89 27       	eor	r24, r25
+ 10e:	8c 93       	st	X, r24
+ 110:	0e 94 40 00 	call	0x80	;  0x80
+ 114:	f5 cf       	rjmp	.-22     	;  0x100
+ 116:	f8 94       	cli
+ 118:	ff cf       	rjmp	.-2      	;  0x118
